@@ -1,6 +1,8 @@
-# Theme
-`https://github.com/tomasiser/vim-code-dark`
-
-# Vimplug curl command:
-`curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`
+# Cloning
+`git clone git@github.com:PooseUnPoose/Vim-Settings.git`
+# Installation:
+```bash
+cd Vim-Settings
+chmod u+x vim.sh
+./vim.sh
+```
